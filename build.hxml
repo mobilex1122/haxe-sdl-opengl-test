@@ -1,0 +1,4 @@
+-cp src
+-lib hlsdl
+--main Main
+-hl build/main.hl

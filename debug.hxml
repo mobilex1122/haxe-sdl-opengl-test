@@ -1,0 +1,6 @@
+-cp src
+-lib hlsdl
+-D assert
+--debug
+--main Main
+-hl build/main.hl
